@@ -1,28 +1,57 @@
-## Your Name / Date
+## Matthew Mosinski October 9, 2021
 
-## Executive Summary 
-Include your executive summary here...
+## Executive Summary: Chapter 3: Software
+  Software is the set of instructions that tells hardware what to do. It is the second vital element to a PC. Without software, hardware would be rendered useless and without hardware, the development of software would be redundant. The two elements are necessary for one another to be effective in a computer system. Software comes in many forms; however, the most integral form is an operating system. Windows, Linux, iOS, and android are a few examples of operating systems. The operating system is what provides the user interface, manages the hardware, and gives developers a platform to write applications. Application software allows users to preform specific tasks such as play games, calculate, word process, video editor, etc. software is created specifically to be compatible with certain OS. iOS software will only work with Apple products. When someone downloads or purchases software, they do not own the software, they just purchased a license giving them the rights to use the software.
+	Applications can be found in a variety of places, however, the most modern way to get an application is downloading it through cloud computing. Cloud computing uses giant server farms to store data. Anyone can create a cloud server with the proper hardware and software; however, it does come with its disadvantages such as it necessitates internet access to access your data and your information could be stored in someone else’s computer. Google services are an example of cloud computing.
+	Many businesses user Enterprise Resource Planning software (ERP) to organize, access and analyze data related to the business from a centralized database. This could include data related to sales, inventory, accounting, payroll, planning, purchasing and a customer relationship management system (CRM).  It also could include a supply chain management system that handles the interconnection of product all the way from the supplier to the customer.
+	Virtualization has become a modern practice. It is the process of using software to simulate a computer of a device to another. Virtualization has many advantages, but the main advantage of virtualization is that it makes one computer act like multiple. Virtualization requires a hypervisor to manage the virtual environment.
+	Programmers use integrated development environments (IDE) to write code, test it and convert it to software that can be utilized on a PC. Java, C, and Python are examples of code languages that developers use to write applications. Python is a simple but powerful code that almost feels like the writer is using English. This pseudo-code nature of Python allows developers to focus on the solution to the problem rather than the coding language itself.
+	Open-source software allows programmers to network and share their applications; however, developers typically do not let just anybody have and use software that they have developed which is why most software requires a license purchase. The controversy with open-source software is that people feel that everyone should freely have access to software so that innovation and progress can be made more rapidly versus businesses who do not like open-source software because they feel more vulnerable to an attack since everyone would have access to the code.  
+
 
 ## Software
 ### Types of Software
+  Software is the set of instructions that tells the hardware of a computer what to do. Without software, hardware would not be functional. There are 3 main types of software. The first is operating system software (OS). OS software creates the main interface between the hardware and the user. Its key functions are managing the hardware, providing user interface, and providing a platform for developers to write applications. All computing devices require and OS. Examples are Windows by Microsoft, Mac operating system and IOS by Apple, and android OS.
+	The second type of software is application software. App software performs specific tasks such as word processing, accounting, database management, video games, or browsing the web. There are millions of applications software’s available for different OS. Some apps become killer apps, which are app that become so essential that many people will buy the device, just so they can run the specific app.
+	Lastly is Utility software. Utility software is software that allows you to fix or modify a PC. It was created to fill short comings amid the operating system. Some examples of utility apps are anti-malware software and disk defragmentation.
+
 ### ERP
+  The main purpose of ERP software is to consolidate information and databases, helping the business to enforce the best practices. ERPs access multiple databases and present the data as if it is one database. Rather than sales, accounting, inventory, and/or customer relations all being on separate apps, ERPs allow all facets of the business to be put into one application. This helps businesses make informed decisions and generate a plan through analysis. Most businesses see an improvement after implementing an ERP.
 
 ## Virtualization
 ### Problems Solved by Virtualization
+  Virtualization is the process of using software to simulate a computer or some other device onto one device. A common problem soft by virtualization is the cost of running servers and having to run multiple servers for each task such as email or web or apps. With virtualization, we can now run multiple Oss and multiple tasks on one server which is faster, more cost effective and efficient and frees up space on other servers for other background tasks. Virtualization allows one computer to act like multiple computers and can deploy a desktop to hundreds of machines. Data, desktops, servers, and networks are all examples of things that can be virtualized.
+  
 ### Role of Hypervisor
-
+  The role of a hypervisor in virtualization is to manage the virtual environment. A hypervisor divides physical resources. A hypervisor determines who can or can’t access the data and what data is a made accessible to a guest through virtualization. Citrix is an example of a hypervisor.
+  
 ## Python
 ### Pseudo-Code Nature of Python
+  Pseudo-Code nature of Python means that python code is not actually involve any code. Pseudo-Code is a syntax free representation of code that uses the English language as the “code,” and then converts it to a specific programming language. Pseudo-Code nature allows the coder to focus on the solution rather than the language.
+  
 ### Interpreted vs. Compiled Language
-
+  A compiled language is entered into a compiler where the code is simply written but not interpreted. Once the program is compiled, it is expressed in the target machine which deciphers the language into the program. Compilers take an entire program as its input and generate an intermediate object code as the output. A compiler executes fast than an interpreter but requires more memory in order to create the object code. A compiler doesn’t need to compile every single line, every single time and displays errors once the code is checked, versus displaying errors line for line as each instruction is run.
+   
 ## Career Exploration
 ### Handshake
+  Handshake seems like a great networking tool for students, colleagues, and employers to communicate and help one another advance in their careers. It seems comparable to linkedin where a user can build an attractive profile based on experience. I am interested in attending the seminars and/or career fairs. I am looking forward to using handshake to reach out to employers in an effort to begin a career in IT.
+  
 ### Bureau of Labor Statistics
+  The Bureau of Labor Statistics seems to be a useful source when it comes to knowing particular statistics and positions of a certain field. For instance, the BLS lists 10 different Computer and Information Technology Occupations with a wide range of median pay in 2020, ranging from about 55k/year to 127k/year. Most occupations in the IT field require a bachelor’s degree. Most IT fields are growing as well in terms of employment. There are a few occupations such as programmers that were on the decline in 2020, but I believe that, for the most part, fields in IT will continue to grow and will always be in demand amid the fact that technology is continuing to evolve, and computers continue to become a larger part of everyday life.
+  
 ### Certifications
+  CompTIA is a cybersecurity analyst certification that applies behavioral analytics to networks and devices to prevent detect and combat cybersecurity threats through continuous security monitoring. As attackers continue to develop their skills in evading firewalls and anti-virus software, it is important that security measures are either proportionately or developed faster and in greater strengths than the threats.
+Cisco appears to have an abundance of certifications, almost all related to security in some fashion. I notice Cisco has promotions and offers to paying for certifications and guided study groups due to October being cyber security month. CISSP is another cybersecurity certification.
+
 ### Certificates and Degrees
+  A certificate of interest is developing and programming. Whether it be iOS or android, mobile applications are up and coming as almost everyone in the world utilizes a cell phone that utilizes android or iOS apps. The Application development program follows the SDLC to teach students how to analyze, design, develop and test mobile applications to address needs of business and/or consumers.
+  
 ### Co-ops / Internships
+  To be intern and/or co-op ready at Tri-c, students must submit the experimental learning application of interest and participate in the co-op orientation process through the career center. From there, the student will upload his/her resume to be reviewed by a career coach at handshake. Following resume approval, the student will work with an employer relations specialist and interview with co-op placements. Lastly, the student signs the cooperative education agreement and registers for credit.
+  
 ### Industry Associations / Student Organizations
+  “The Collegiate Cyber Defense Competition (CCDC) system provides institutions with an information assurance or computer security curriculum in a controlled and competitive environment to assess their student’s depth of understanding and operational competency in managing the challenges inherent in protecting a corporate network infrastructure and business information systems.”
+The CCDC prepares student with teamwork, computing ethics and effective communication to battle live opponents who are attempting to break through the team of student’s security. This program is beneficial in that it creates a competitive atmosphere where students compete in a team setting to network and strengthen their skills, as well as putting students in real world situations where they can plan discuss and implement effective strategies against security threats.
 
 ## Conclusion
-
-Include your professional conclusion here...
+Software is as integral of an element to a PC as hardware. Without software, the CPU (brain of the computer) would be useless. Businesses and consumers rely on software every day to stay organized and complete daily tasks. Software is developed by programmers or software developers to meet the needs of a business and/or society. Whether it be for the purpose of application development, security, virtualization and/or entertainment, programmers will continue to be in high demand for the foreseeable future. There are many different programming languages. The more programming languages a person knows, the more opportunities are presented. 
