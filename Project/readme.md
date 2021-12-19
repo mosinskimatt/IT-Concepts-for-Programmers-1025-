@@ -20,12 +20,9 @@ It is important to understand these situations, consider the different perspecti
 
 
 ### Project Part 2:
-
-If you elected option 1 describe the process you followed to become co-op ready and the name of your career coach OR, for option 2, present your program, application, reach etc.  There is no specific guidelines on the length or development success.  Some students plan on creating an app and find that they only got to determining the full purpose, outcomes and technology which is fine.  The purpose of the project is to take a topic of particular interest to you and spend some more time to gain a deeper level of understanding.
-
-See Blackboard for details
+Through my research I have discovered many of the advantages and disadvantages of the implementation of AI. I selected various topics in which AI has been implemented, and researched the pros and cons of AI involvement, noting different perspectives, considering who may benefit, and who may face a disadvantage.
+Throughout this course I have learned different programming methods, how they are related and which I prefer. I learned the difference between back and front-end programming. I learned the importance of proper networking and preparation when software engineering. 
 
 ### Conclusion
-
-Include your conclusion
+This course has been helpful in see the potential in the field of IT. IT is growing at a rate that demands employment and further education. This course has been a great start in earning a software engineering degree and providing a generalization of what doors may open after earning a software engineering degree. The IT world is large and could be overwhelming when deciding which career path would be the most rewarding. One could become a software developer, a networker, build computers (hardware), cyber security, encryption, etc. A career in the IT field is a big responsibility and should be handled by those with good intentions. Thank you for the opportunity to take this course and I look forward to continuing my education and earing a software engineering degree.
 
